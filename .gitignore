@@ -1,0 +1,11 @@
+# 注入前的临时副本
+index.before-inject.html
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / 编辑器
+.DS_Store
+.idea/
+.vscode/
